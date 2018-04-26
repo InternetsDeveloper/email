@@ -4,12 +4,12 @@ Email Design for Client
 
 ### Top
 
-![alt text](https://github.com/internetsdeveloper/email/placeholder-images/Screenshot.png")
+![Top](https://github.com/InternetsDeveloper/email/blob/master/placeholder-images/Screenshot.png)
 
 ### Mid
 
-![alt text](https://github.com/internetsdeveloper/email/placeholder-images/Screenshot1.png")
+![Mid](https://github.com/InternetsDeveloper/email/blob/master/placeholder-images/Screenshot1.png)
 
 ### Bottom
 
-![alt text](https://github.com/internetsdeveloper/email/placeholder-images/Screenshot2.png")
+![Bottom](https://github.com/InternetsDeveloper/email/blob/master/placeholder-images/Screenshot2.png)
